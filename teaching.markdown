@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 sitemap: true
 ---
+---
 <style>
   .resume-section-content {
     text-align: justify;
@@ -19,7 +20,11 @@ sitemap: true
   .resume-section-content li {
     margin-bottom: 10px;
   }
+  .resume-section-content ul ul li {
+    margin-bottom: 1px; /* Ajusta este valor para reducir el espacio vertical */
+  }
 </style>
+
 <section class="resume-section" id="teaching">
     <div class="resume-section-content">     
         <h3 class="mb-3" style="margin-bottom: 10px;">Carlos III University of Madrid</h3>
