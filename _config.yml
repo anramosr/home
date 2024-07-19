@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Joël Terschuur
-email: jrobert@eco.uc3m.es
-url: "https://joelters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: Andrey D. Ramos-Ramirez
+email: anramosr@eco.uc3m.es
+url: "https://anramosr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /home # the subpath of your site, e.g. /blog
-twitter_username: Joel_Terschuur
-github_username:  joelters
+twitter_username: anramosr
+github_username: anramosr
 
 # Build settings
 theme: minima
