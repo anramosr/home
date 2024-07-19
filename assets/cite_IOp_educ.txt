@@ -1,8 +1,0 @@
-@misc{terschuur2023educational,
-      title={Educational Inequality of Opportunity and Mobility in Europe}, 
-      author={Joël Terschuur},
-      year={2023},
-      eprint={2212.02407},
-      archivePrefix={arXiv},
-      primaryClass={econ.EM}
-}
