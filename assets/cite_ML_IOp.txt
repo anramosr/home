@@ -1,8 +1,0 @@
-@misc{escanciano2023machine,
-      title={Machine Learning Inference on Inequality of Opportunity}, 
-      author={Juan Carlos Escanciano and Joël Robert Terschuur},
-      year={2023},
-      eprint={2206.05235},
-      archivePrefix={arXiv},
-      primaryClass={econ.EM}
-}
