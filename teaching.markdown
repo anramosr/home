@@ -4,7 +4,6 @@ title: Teaching
 permalink: /teaching/
 sitemap: true
 ---
----
 <style>
   .resume-section-content {
     text-align: justify;
