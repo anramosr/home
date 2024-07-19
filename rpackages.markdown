@@ -1,28 +1,36 @@
 ---
 layout: page
-title: R packages
-permalink: /code/
+title: CV
+permalink: /cv/
 sitemap: true
 ---
 
-Here I upload R packages and code. For R packages click on
-the link and scroll down to see a description.
+Find my CV below, or download it <a href="https://anramosr.github.io/home/CV_AndreyRamos.pdf" target="_blank">here</a>.
 
-# R packages
+<div class="pdf-container">
+    <embed src="https://anramosr.github.io/home/CV_AndreyRamos.pdf" type="application/pdf" />
+</div>
 
-  - [ML](https://github.com/joelters/ML):  simple to use package to estimate
-   Lasso, Ridge, Random Forest (RF), Conditional Inference Forest (CIF),
-   Extreme Gradient Boosting (XGB), Catboosting (CB) and a SuperLearner
-   combining all of these learners.
+<style>
+    .pdf-container {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 141.42%; /* Aspect ratio 700:900 (height/width * 100) */
+    }
+    .pdf-container embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 
-  - [ineqopp](https://github.com/joelters/ineqopp): the goal of ineqopp is to
-   provide estimates  and tests for Inequality of Opportunity (IOp) using
-   several methods. Debiased IOp estimates can be computed using any Machine
-   Learner among: Lasso, Ridge, Random Forest, Conditional Inferest Forest,
-   Extreme Gradient Boosting, Catboosting or some combination of these five
-   machine learners. Plug in estimates can also be computed estimating the
-   fitted values with a log linear regression, non-parametrically (for discrete
-   circumstances) or with any of the aforementioned machine learners. Debiased
-   partial effects can also be computed. The package includes a survey with
-   income and circumstances for Madrid in 2018 (from Encuesta de Condiciones
-   de vida (ECV) 2019).
+    @media screen and (max-width: 600px) {
+        .pdf-container {
+            padding-bottom: 175%; /* Aspect ratio adjustment for smaller screens */
+        }
+    }
+</style>
+
+
