@@ -1,8 +1,0 @@
-@article{terschuur2023lrpl,
-  title = {Locally Robust Policy Learning: Inequality, Inequality of Opportunity and Intergenerational Mobility},
-  author={Terschuur, Joël Robert},
-  journal = {Working Paper},
-  year    = 2023,
-  volume  =,
-  number  =
-}
