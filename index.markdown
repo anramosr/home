@@ -1,24 +1,46 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 sitemap: true
 ---
-<img style="float: right;" src="main250.jpg">
 
-I am a Postdoctoral Scholar in the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/)
-at the University of Geneva. I will join the [Munich Econometrics Group](https://munichmetrics.de/)
-in Spring 2025 as a Postdoctoral Scholar.
+<style>
+  .profile-pic {
+    float: right;
+    width: 250px; /* Tamaño más pequeño para la imagen en escritorio */
+    margin: 0 0 10px 10px;
+  }
 
-My research interests are:
+  @media screen and (max-width: 600px) {
+    .profile-pic {
+      float: none;
+      display: block;
+      margin: 0 auto 10px auto;
+      width: 100%;
+      max-width: 300px; /* Tamaño máximo de la imagen en móvil */
+    }
+    .content {
+      clear: both;
+    }
+  }
 
-  * Semi-parametric Inference
-  * Machine Learning
-  * Inequality of Opportunity
-  * Empirical Welfare Maximization
-  * U-statistics and U-processes
+  .content p,
+  .content ul {
+    text-align: justify;
+  }
+</style>
 
-[CV](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/cv.pdf)
+<img class="profile-pic" src="profile.jpg">
 
-[Google Scholar](https://scholar.google.com/citations?user=NDAc42oAAAAJ&hl=es&oi=ao)
+<div class="content">
+  <p><strong>¡Hello, welcome to my webpage!</strong></p>
+  <p> I am Andrey, a fifth-year Ph.D. in Economics student at the <a href="https://economia.uc3m.es/personal/ramos/" target="_blank">Carlos III University of Madrid (UC3M).</a> I am writing my dissertation under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo.</a></p>
+  <p><strong> My research interests are:</strong></p>
+  <ul>
+    <li> Time series econometrics</li>
+    <li> Climate and environmental economics</li>
+    <li> Applied econometrics</li>
+  </ul>
+  <p>During spring 2024, I visited the Department of Economics and Business Economics at Aarhus University.</p>
+  <p>I will be on the <strong>Job Market 2024-2025.</strong> You can download my complete CV <a href="CV_AndreyRamos.pdf" target="_blank">here</a>.</p>
+</div>
+
