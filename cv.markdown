@@ -8,7 +8,7 @@ sitemap: true
 Find my CV below, or download it <a href="https://anramosr.github.io/home/CV_AndreyRamos.pdf" target="_blank">here</a>.
 
 <div class="pdf-container">
-    <embed src="https://anramosr.github.io/home/CV_AndreyRamos.pdf" type="application/pdf" />
+    <embed src="https://anramosr.github.io/CV_AndreyRamos.pdf" type="application/pdf" />
 </div>
 
 <style>
