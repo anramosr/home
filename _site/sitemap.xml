@@ -12,4 +12,7 @@
 <url>
 <loc>http://localhost:4000/home/teaching/</loc>
 </url>
+  <url>
+<loc>http://localhost:4000/home/contact/</loc>
+</url>
 </urlset>
