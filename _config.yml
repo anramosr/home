@@ -21,7 +21,7 @@
 title: Andrey D. Ramos-Ramirez
 email: anramosr@eco.uc3m.es
 url: "https://anramosr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /home # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 twitter_username: anramosr
 github_username: anramosr
 
