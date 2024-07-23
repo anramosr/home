@@ -7,7 +7,7 @@ sitemap: true
   .profile-pic {
     float: right;
     width: 250px; /* Tamaño más pequeño para la imagen en escritorio */
-    margin: 0 0 10px 10px;
+    margin: 0 0 20px 10px; /* Aumentado el espacio vertical */
   }
 
   @media screen and (max-width: 600px) {
@@ -43,4 +43,3 @@ sitemap: true
   <p>During spring 2024, I visited the Department of Economics and Business Economics at Aarhus University.</p>
   <p>I will be on the <strong>Job Market 2024-2025.</strong> You can download my complete CV <a href="CV_AndreyRamos.pdf" target="_blank">here</a>.</p>
 </div>
-
