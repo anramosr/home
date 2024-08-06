@@ -25,6 +25,8 @@ baseurl: # the subpath of your site, e.g. /blog
 twitter_username: anramosr
 github_username: anramosr
 linkedin_username: andrey-ramos-08801b117
+google_scholar_id: _Y-EbUcAAAAJ&hl=es
+orcid_id: 0000-0002-5795-3190
 
 # Build settings
 theme: minima
