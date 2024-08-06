@@ -1,35 +1,39 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{  | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <div class="footer-row">
+      <a href="{{ "/" | relative_url }}" target="_blank">Andrey D. Ramos-Ramirez</a>
+      <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+        <svg class="svg-icon">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
+        </svg>
+        LinkedIn
+      </a>
+      <a href="https://scholar.google.com/citations?user=your-google-scholar-id" target="_blank">
+        <svg class="svg-icon">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#google-scholar' | relative_url }}"></use>
+        </svg>
+        Google Scholar
+      </a>
+      <a href="https://orcid.org/your-orcid-id" target="_blank">
+        <svg class="svg-icon">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#orcid' | relative_url }}"></use>
+        </svg>
+        ORCID
+      </a>
+      <a href="https://twitter.com/your-twitter-username" target="_blank">
+        <svg class="svg-icon">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use>
+        </svg>
+        Twitter
+      </a>
+      <a href="https://github.com/your-github-username" target="_blank">
+        <svg class="svg-icon">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
+        </svg>
+        GitHub
+      </a>
     </div>
-
   </div>
-
 </footer>
