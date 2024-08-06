@@ -44,6 +44,6 @@ sitemap: true
   <p>I will be on the <strong>Job Market 2024-2025.</strong> You can download my complete CV <a href="CV_AndreyRamos.pdf" target="_blank">here</a>.</p>
 </div>
 <p>
-<ul><li>Email: <a href="mailto:anramosr@eco.uc3m.es">anramosr@eco.uc3m.es</a> or <a href="mailto:adramosr@gmail.com">adramosr@gmail.com</a></li></ul>. 
+<ul><li>Contact: <a href="mailto:anramosr@eco.uc3m.es">anramosr@eco.uc3m.es</a> or <a href="mailto:adramosr@gmail.com">adramosr@gmail.com</a>.</li></ul>
 </p>
 
