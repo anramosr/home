@@ -43,3 +43,7 @@ sitemap: true
   <p>During spring 2024, I visited the Department of Economics and Business Economics at Aarhus University.</p>
   <p>I will be on the <strong>Job Market 2024-2025.</strong> You can download my complete CV <a href="CV_AndreyRamos.pdf" target="_blank">here</a>.</p>
 </div>
+<p>
+<ul><li>You can reach me at <a href="mailto:anramosr@eco.uc3m.es">anramosr@eco.uc3m.es</a> or <a href="mailto:adramosr@gmail.com">adramosr@gmail.com</a></li></ul>. 
+</p>
+
