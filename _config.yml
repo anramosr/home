@@ -24,6 +24,7 @@ url: "https://anramosr.github.io" # the base hostname & protocol for your site, 
 baseurl: # the subpath of your site, e.g. /blog
 twitter_username: anramosr
 github_username: anramosr
+linkedin_username: andrey-ramos-08801b117
 
 # Build settings
 theme: minima
