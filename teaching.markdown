@@ -33,7 +33,7 @@ sitemap: true
             <ul>
                 <li>Main instructors: <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a> and <a href="https://www.eco.uc3m.es/~jcarro/" target="_blank">Jesús Carro</a></li>
                 <li>Contents: Discrete choice, Sample selection, Censoring, Linear and non-linear panel data, ARIMA, VAR, Unit roots, Cointegration, SVAR</li>
-                <li>Academic years: Fall 2021<a href="https://anramosr.github.io/felicitacion_2021_1_19115_v01.pdf" target="_blank">(*)</a>, Fall 2022, Fall 2023<a href="felicitacion_2023_1_19115_v02.pdf" target="_blank">*</a></li>
+                <li>Academic years: Fall 2021<a href="https://anramosr.github.io/felicitacion_2021_1_19115_v01.pdf" target="_blank">(*)</a>, Fall 2022, Fall 2023<a href="https://anramosr.github.io/felicitacion_2023_1_19115_v02.pdf" target="_blank">(*)</a></li>
                 <li>PhD level, English</li>
                 <li>(*) Awarded for Excellence in Teaching</li>
                 <li>Some excellent material for this course can be found <a href="https://www.eco.uc3m.es/~jgonzalo/teaching/PhDTimeSeries.html" target="_blank">here.</a></li>  
@@ -43,7 +43,7 @@ sitemap: true
             <ul>
                 <li>Main instructor: <a href="https://sites.google.com/view/uc3m-dpto-economia" target="_blank">Alvaro Escribano</a></li>
                 <li>Contents: ARIMA, ARDL, VAR, Unit Roots, Cointegration, Non-linear time series</li>
-                <li>Academic years: Spring 2021<a href="felicitacion_2021_2_19115_v02.pdf" target="_blank">*</a>, Spring 2022, Spring 2023, Spring 2024</li>
+                <li>Academic years: Spring 2021<a href="https://anramosr.github.io/felicitacion_2021_2_19115_v02.pdf" target="_blank">(*)</a>, Spring 2022, Spring 2023, Spring 2024</li>
                 <li>Master level, English</li>
                 <li>(*) Awarded for Excellence in Teaching</li>
             </ul>
@@ -52,7 +52,7 @@ sitemap: true
             <ul>
                 <li>Main instructor: <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a></li>
                 <li>Contents: Introduction to time series modelling, ARIMA, ARDL, VAR</li>
-                <li>Academic years: Fall 2022, Fall 2023<a href="felicitacion_2023_1_19115_v02.pdf" target="_blank">*</a></li>
+                <li>Academic years: Fall 2022, Fall 2023<a href="https://anramosr.github.io/felicitacion_2023_1_19115_v02.pdf" target="_blank">(*)</a></li>
                 <li>Undergraduate level, Spanish</li>
                 <li>(*) Awarded for Excellence in Teaching</li>
                 <li>Some excellent material for this course can be found <a href="https://www.eco.uc3m.es/~jgonzalo/teaching/TecnicasEconometricas.html" target="_blank">here.</a></li>  
@@ -62,7 +62,7 @@ sitemap: true
             <ul>
                 <li>Main instructor: <a href="https://economia.uc3m.es/personal/carlos-san-juan-mesonada-2/" target="_blank">Carlos San Juan Mesonada</a></li>
                 <li>Contents: Locational equilibrium, Clustering of firms, City size, Urban growth</li>
-                <li>Academic years: Fall 2020<a href="felicitacion_2020_1_19115_v02.pdf" target="_blank">*</a></li>
+                <li>Academic years: Fall 2020<a href="https://anramosr.github.io/felicitacion_2020_1_19115_v02.pdf" target="_blank">(*)</a></li>
                 <li>Undergraduate level, Spanish</li>
                 <li>(*) Awarded for Excellence in Teaching</li>
             </ul>
