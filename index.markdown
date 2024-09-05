@@ -4,15 +4,21 @@ sitemap: true
 ---
 
 <style>
-  .container {
-    display: flex; /* Usa Flexbox para el layout principal */
-    align-items: center; /* Alinea verticalmente al centro */
-    justify-content: space-between; /* Separa el contenido y la imagen */
+  .profile-pic {
+    float: right;
+    width: 250px; /* Tamaño más pequeño para la imagen en escritorio */
+    margin: 0 0 20px 20px; /* Aumentado el espacio vertical y horizontal */
+    clear: right; /* Evita que el texto fluya debajo de la imagen */
   }
 
-  .profile-pic {
-    width: 250px; /* Tamaño fijo para escritorio */
-    margin: 0; /* Elimina márgenes externos adicionales */
+  @media screen and (max-width: 600px) {
+    .profile-pic {
+      float: none;
+      display: block;
+      margin: 0 auto 10px auto;
+      width: 100%;
+      max-width: 300px; /* Tamaño máximo de la imagen en móvil */
+    }
   }
 
   .content {
