@@ -9,6 +9,7 @@ sitemap: true
     width: 250px; /* Tamaño más pequeño para la imagen en escritorio */
     margin: 0 0 20px 20px; /* Aumentado el espacio vertical y horizontal */
     clear: right; /* Evita que el texto fluya debajo de la imagen */
+    align-items: center;
   }
 
   @media screen and (max-width: 600px) {
