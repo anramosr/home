@@ -37,7 +37,7 @@ sitemap: true
   <p><strong>¡Hello, welcome to my personal website!</strong></p>
   <p> I am Andrey, a final-year Ph.D. in Economics student at the <a href="https://economia.uc3m.es/personal/ramos/" target="_blank">Universidad Carlos III de 
    Madrid (UC3M).</a> I am writing my dissertation under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo.</a></p>
-  <p>I will be on the <strong>Job Market 2024-2025.</strong> Find here my CV <a href="CV_AndreyRamos.pdf" target="_blank">here</a>.</p>
+  <p>I will be on the <strong>Job Market 2024-2025.</strong> Find here my <a href="CV_AndreyRamos.pdf" target="_blank">CV</a>.</p>
   <p><strong> My research interests are:</strong></p>
   <ul>
     <li> Time series econometrics</li>
