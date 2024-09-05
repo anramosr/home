@@ -43,7 +43,7 @@ sitemap: true
             <ul>
                 <li>Main instructor: <a href="https://sites.google.com/view/uc3m-dpto-economia" target="_blank">Alvaro Escribano</a></li>
                 <li>Contents: ARIMA, ARDL, VAR, Unit Roots, Cointegration, Non-linear time series</li>
-                <li>Academic years: Spring 2021<a href="felicitacion_2021_2_19115_v02.pdf" target="_blank">*</a>*, Spring 2022, Spring 2023, Spring 2024</li>
+                <li>Academic years: Spring 2021<a href="felicitacion_2021_2_19115_v02.pdf" target="_blank">*</a>, Spring 2022, Spring 2023, Spring 2024</li>
                 <li>Master level, English</li>
                 <li>(*) Awarded for Excellence in Teaching</li>
             </ul>
