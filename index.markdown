@@ -8,19 +8,19 @@ sitemap: true
   .container {
     display: flex;
     justify-content: space-between;
+    flex-direction: column; /* Inicialmente, apila los elementos */
   }
 
   /* Panel izquierdo (texto) */
   .content {
-    width: 65%; /* Ajusta el tamaño del panel de texto */
-    margin-right: 20px; /* Espacio entre texto e imagen */
+    width: 100%;
+    margin-bottom: 20px; /* Espacio inferior en móviles */
   }
 
   /* Panel derecho (imagen) */
   .image-panel {
-    position: sticky; /* La imagen será sticky en la pantalla */
-    top: 20px; /* Distancia desde el borde superior */
-    width: 30%; /* Ajusta el tamaño del panel de imagen */
+    width: 100%;
+    margin-bottom: 20px; /* Espacio inferior para la imagen */
   }
 
   .profile-pic {
@@ -28,21 +28,21 @@ sitemap: true
     margin-bottom: 20px; /* Espaciado inferior para la imagen */
   }
 
-  @media screen and (max-width: 600px) {
-    /* En pantallas móviles, los paneles se apilan uno sobre otro */
+  /* Diseño para pantallas más grandes (escritorio) */
+  @media screen and (min-width: 600px) {
     .container {
-      display: block;
+      flex-direction: row; /* Alinea en filas (imagen y texto en columnas) */
     }
 
     .content {
-      width: 100%; /* El texto ocupa el 100% del ancho */
-      margin-right: 0; /* Quita el margen entre paneles */
+      width: 65%; /* Ajusta el tamaño del panel de texto */
+      margin-right: 20px; /* Espacio entre texto e imagen */
     }
 
     .image-panel {
-      width: 100%; /* La imagen ocupa el 100% del ancho */
-      position: static; /* Quita el sticky en móviles */
-      margin-bottom: 20px; /* Espaciado inferior */
+      width: 30%; /* Ajusta el tamaño del panel de imagen */
+      position: sticky; /* La imagen sigue el scroll */
+      top: 20px; /* Distancia desde el borde superior */
     }
   }
 
@@ -54,6 +54,10 @@ sitemap: true
 </style>
 
 <div class="container">
+  <div class="image-panel">
+    <img class="profile-pic" src="profile.jpg" alt="Profile Picture">
+  </div>
+
   <div class="content">
     <p><strong>Hello, welcome to my personal website!</strong></p>
     <p> I am Andrey, a final-year Ph.D. in Economics student at the <a href="https://economia.uc3m.es/personal/ramos/" target="_blank">Universidad Carlos III de Madrid (UC3M).</a> I am writing my dissertation under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo.</a></p>
@@ -63,9 +67,5 @@ sitemap: true
     <ul><li>During spring 2024, I visited the Department of Economics and Business Economics at Aarhus University.</li></ul>
     <ul><li>My Job Market Paper was selected for a poster session at the <strong>ASSA 2025 Annual Meeting</strong>.</li></ul>
     <ul><li>Contact: <a href="mailto:anramosr@eco.uc3m.es">anramosr@eco.uc3m.es</a> or <a href="mailto:adramosr@gmail.com">adramosr@gmail.com</a>.</li></ul>
-  </div>
-
-  <div class="image-panel">
-    <img class="profile-pic" src="profile.jpg" alt="Profile Picture">
   </div>
 </div>
