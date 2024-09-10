@@ -83,3 +83,6 @@ sitemap: true
 of Baumeister et al. (2024) implies a higher frequency in the nowcasting exercise compared to the quarterly and monthly frequencies of Bennedsen et al. (2021) and Fosten and Nandi (2023), respectively. The information produced by our analysis is useful to inform policies aiming to reduce regional environmental degradation. The nowcasting exercise is particularly important in this context, given the large publication lags in the U.S. state-level energy consumption and emissions data.</i>
 </details>
 <p></p>
+
+## Reports and Policy Writing Contributions
+<li><a>Poverty and Equity Assessment in Ecuador (World Bank)</a>, <i>Forthcoming</i>
