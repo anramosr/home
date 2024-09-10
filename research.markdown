@@ -84,11 +84,4 @@ of Baumeister et al. (2024) implies a higher frequency in the nowcasting exercis
 </details>
 <p></p>
 
-# Work in Progress
 
-<p></p>
-<li><a href="GreenNews_JaulínRamos_Draft.pdf" target="_blank" style="text-decoration;"> Becoming Green: Aggregate and Firm-level Effects of Green Technology News Shocks</a> (with <a href="https://oscarjaulin.com/" target="_blank">Oscar Jaulin</a>)</li>
-<details><summary>Abstract</summary>
-<i>We empirically explore the macroeconomic and firm-level implications of anticipations about future technological advancements in the green sector. Utilizing the economic value of green patents granted to publicly listed companies in the U.S., we identify green technology news shocks via a convenient and meaningful rotation of the innovations from a Bayesian Vector Autorregresion Model (BVAR). These shocks are decomposed into two orthogonal components: i) a common technological component shared by both green and non-green innovation, that reproduces response patterns akin to those expected from a technology news shock with long-run impacts on productivity; and ii) an idiosyncratic component to green innovation inducing inflationary pressures and stock price reductions. The responses to the orthogonal component suggest the existence of a green transition news content that can be related to expectations of more rigorous carbon policies or stricter environmental standards in the future. Our focus on green innovation deepens our understanding about the effect of technology-specific news shocks and provides information of practical importance for macroeconomic and environmental policies.</i>
-</details> 
-<p></p>
