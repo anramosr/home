@@ -85,4 +85,4 @@ of Baumeister et al. (2024) implies a higher frequency in the nowcasting exercis
 <p></p>
 
 ## Reports and Policy Writing Contributions
-<li><a>Poverty and Equity Assessment in Ecuador (World Bank)</a>, <i>Forthcoming</i>
+<li><a>Poverty and Equity Assessment in Ecuador, World Bank</a>, <i>(forthcoming)</i>
