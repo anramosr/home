@@ -95,9 +95,6 @@ sitemap: true
                 <li>Master level, Spanish</li>
                 <li><a href="https://anramosr.github.io/AcumuladosDocente.xls.pdf" target="_blank">(*)</a>Teaching Evaluation Scores above 4.2/5.0</li>
             </ul>
-            <ul>
-            <li style="margin-bottom: 10px;"><b>Econometrics I</b></li>
-            &nbsp;
         </ul>
         
     </div>
