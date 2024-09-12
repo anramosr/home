@@ -77,7 +77,7 @@ sitemap: true
                 <li>Contents: Estimation and inference for multiple linear regression, Collinearity, Heteroskedasticity and GLS, Endogeneity and IV</li>
                 <li>Academic semesters: 2016-II(*), 2017-I(*), 2017-II(*), 2018-I(*)</li>
                 <li>Undergraduate level, Spanish</li>
-                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls.pdf" target="_blank">(*)</a>Teaching Evaluation Scores above 4.2/5.0</li>
+                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls" target="_blank">(*)Teaching Evaluation Scores above 4.2/5.0</a></li>
             </ul>
             &nbsp;
             <li style="margin-bottom: 10px;"><b>Microeconometrics</b></li>
@@ -85,7 +85,7 @@ sitemap: true
                 <li>Contents: Binary and multinomial discrete choice, Censoring and truncation, Count data, Sample selection, Treatment effects</li>
                 <li>Academic semester: 2018-II(*)</li>
                 <li>Undergraduate level, Spanish</li>
-                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls.pdf" target="_blank">(*)</a>Teaching Evaluation Scores above 4.2/5.0</li>
+                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls" target="_blank">(*)Teaching Evaluation Scores above 4.2/5.0</a></li>
             </ul>
             &nbsp;
             <li style="margin-bottom: 10px;"><b>Advanced Econometrics</b></li>
@@ -93,7 +93,7 @@ sitemap: true
                 <li>Contents: Estimation and inference for multiple linear regression, Collinearity, Heteroskedasticity and GLS, Endogeneity and IV</li>
                 <li>Academic semesters: 2018-II(*), 2019-I(*)</li>
                 <li>Master level, Spanish</li>
-                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls.pdf" target="_blank">(*)</a>Teaching Evaluation Scores above 4.2/5.0</li>
+                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls" target="_blank">(*)Teaching Evaluation Scores above 4.2/5.0</a></li>
             </ul>
         </ul>
         
