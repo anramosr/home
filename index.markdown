@@ -38,7 +38,7 @@ sitemap: true
   <p><strong>Hello, welcome to my personal website!</strong></p>
   <p> I am Andrey, a final-year Ph.D. in Economics student at the <a href="https://economia.uc3m.es/personal/ramos/" target="_blank">Universidad Carlos III de 
    Madrid (UC3M).</a> I am writing my dissertation under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo.</a></p>
-  <p>I will be on the <strong>Job Market 2024-2025.</strong> Find here my <a href="CV_AndreyRamos.pdf" target="_blank">CV</a>.</p>
+  <p>I will be on the <strong>Job Market 2024-2025.</strong> Find here my <a href="CV_AndreyRamos.pdf" target="_blank">CV</a> and my <a href="JMP_AndreyRamos.pdf" target="_blank">Job Market Paper</a>.</p>
   <p>My research interests lie at the intersection of <strong>time series econometrics, climate and environmental economics, and applied econometrics</strong>. In my Job Market Paper, I combine elements of physics theory from Energy Balance Models (EBMs) with recent advances in time series econometrics, to propose a quantitative methodology for studying heterogeneity in the evolution of the entire temperature distribution and its association with different climate drivers, including carbon dioxide (CO2). Estimation and forecasting/projection outcomes from this method can be incorporated into economic studies to quantify the economic consequences of climate change, while explicitly accounting for different forms of climate heterogeneity.</p>
 <p>
 <ul><li>More research <a href="https://anramosr.github.io/research/" target="_blank">here.</a> </li></ul>
