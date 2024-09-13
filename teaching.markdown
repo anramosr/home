@@ -68,35 +68,35 @@ sitemap: true
             </ul>
         </ul>
         
-        &nbsp;&nbsp;
+        &nbsp;
         <h3 class="mb-3" style="margin-bottom: 10px;">National University of Colombia</h3>
         <h4 class="mb-3" style="margin-bottom: 10px;">Main instructor for the courses:</h4>
         <ul>
             <li style="margin-bottom: 10px;"><b>Econometrics I</b></li>
             <ul>
                 <li>Contents: Estimation and inference for multiple linear regression, Collinearity, Heteroskedasticity and GLS, Endogeneity and IV</li>
-                <li>Academic semesters: 2016-II(*), 2017-I(*), 2017-II(*), 2018-I(*)</li>
+                <li>Academic semesters: 2016-II<a href="https://anramosr.github.io/AcumuladosDocente.pdf" target="_blank">(*)</a>, 2017-I<a href="https://anramosr.github.io/AcumuladosDocente.pdf" target="_blank">(*)</a>, 2017-II<a href="https://anramosr.github.io/AcumuladosDocente.pdf" target="_blank">(*)</a>, 2018-I<a href="https://anramosr.github.io/AcumuladosDocente.pdf" target="_blank">(*)</a></li>
                 <li>Undergraduate level, Spanish</li>
-                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls" target="_blank">(*)Teaching Evaluation Scores above 4.2/5.0</a></li>
+                <li>(*) Teaching Evaluation Scores above 4.2/5.0</li>
             </ul>
             &nbsp;
             <li style="margin-bottom: 10px;"><b>Microeconometrics</b></li>
             <ul>
                 <li>Contents: Binary and multinomial discrete choice, Censoring and truncation, Count data, Sample selection, Treatment effects</li>
-                <li>Academic semester: 2018-II(*)</li>
+                <li>Academic semester: 2018-II<a href="https://anramosr.github.io/AcumuladosDocente.pdf" target="_blank">(*)</a></li>
                 <li>Undergraduate level, Spanish</li>
-                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls" target="_blank">(*)Teaching Evaluation Scores above 4.2/5.0</a></li>
+                <li>(*) Teaching Evaluation Scores above 4.2/5.0</li>
             </ul>
             &nbsp;
             <li style="margin-bottom: 10px;"><b>Advanced Econometrics</b></li>
             <ul>
                 <li>Contents: Estimation and inference for multiple linear regression, Collinearity, Heteroskedasticity and GLS, Endogeneity and IV</li>
-                <li>Academic semesters: 2018-II(*), 2019-I(*)</li>
+                <li>Academic semesters: 2018-II<a href="https://anramosr.github.io/AcumuladosDocente.pdf" target="_blank">(*)</a>, 2019-I<a href="https://anramosr.github.io/AcumuladosDocente.pdf" target="_blank">(*)</a></li>
                 <li>Master level, Spanish</li>
-                <li><a href="https://anramosr.github.io/AcumuladosDocente.xls" target="_blank">(*)Teaching Evaluation Scores above 4.2/5.0</a></li>
+                <li>(*) Teaching Evaluation Scores above 4.2/5.0</li>
             </ul>
-        </ul>
-        
+            &nbsp;
+        </ul> 
     </div>
 </section>
 <hr class="m-0" />
