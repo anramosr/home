@@ -49,7 +49,7 @@ sitemap: true
 
 # Working Papers under revision
 
-<li><a href="https://arxiv.org/abs/2312.06379" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature</a> (with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>). <i>R&R Economics Letters</i></li>
+<li><a href="https://anramosr.github.io/Trends_Temperature_EL.pdf" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature</a> (with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>). <i>Accepted Economics Letters</i></li>
 <details><summary>Abstract</summary>
 <i>Determining whether Global Average Temperature (GAT) is an integrated process of order 1, I(1), or is a stationary process around a trend function is crucial for detection, attribution, impact and forecasting studies of climate change. In this paper, we investigate the nature of trends in GAT building on the analysis of individual temperature grids. Our 'micro-founded' evidence suggests that GAT is stationary around a non-linear deterministic trend in the form of a linear function with a one-period structural break. This break can be attributed to a combination of individual grid breaks and the standard aggregation method under acceleration in global warming. We illustrate our findings using simulations.</i></details>
 <p></p>
