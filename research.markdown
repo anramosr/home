@@ -49,7 +49,7 @@ sitemap: true
 <li><a href="https://sites.google.com/site/evipappapersonalhomepage/home" target="_blank">Pappa, E.</a>, <b>Ramos, A.</b>, and <a href="https://sites.google.com/view/evella/home" target="_blank">Vella, E.</a> <a href="https://link.springer.com/article/10.1007/s13209-023-00288-w" target="_blank">Which Crisis Support Fiscal Measures Worked During the Covid-19 Shock in Europe?</a> <i> SERIEs </i> 2023. doi: 10.1007/s13209-023-00288-w.</li>
 <p></p>
 
-# Work in Progress
+# Working Papers
 
 <li><a></a>Becoming Green: Aggregate and Firm-level Effects of Green Technology News Shock (with <a href="https://oscarjaulin.com/" target="_blank">Oscar Jaulin</a>)</li>
 <details>
@@ -73,7 +73,7 @@ sitemap: true
 <p></p>
 
 
-# Working Papers
+# Work in Progress
 
 <li><a href="https://docs.iza.org/dp16988.pdf" target="_blank">On the Effects of Wildfires on Poverty in Bolivia</a> (with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>). <i>R&R Journal of Development Economics</i></li>
 <details><summary>Abstract</summary>
