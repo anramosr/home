@@ -61,6 +61,7 @@ sitemap: true
 <i>This document examines the effect of precipitation shocks on poverty status in Ecuador. Using gridded monthly precipitation data from 2007 to 2021, we define measures for the excess and deficit in precipitation levels at the parish geographical level. This data is merged with household socioeconomic information obtained from the National Survey of Employment, Unemployment, and Underemployment (ENEMDU). Our empirical findings reveal that both excess and deficit in precipitation significantly affect poverty status, with these effects displaying strong heterogeneity across economic sectors. Variations in the Standardized Precipitation Index (SPI), whether positive or negative, lead to an increased probability of poverty among workers in the primary sector (specifically, those engaged in fishing and agriculture). In contrast, we observe poverty-reducing effects for the secondary and tertiary sectors. Factors such as formality status, urban/rural location, and the nature of employment play crucial roles in moderating the estimated effects. Per-capita household income and labor income are key channels to explain of our findings.</i></details>
 <p></p>
 
+
 # Work in Progress
 
 <li>Becoming Green: Aggregate and Firm-level Effects of Green Technology News Shock (with <a href="https://oscarjaulin.com/" target="_blank">Oscar Jaulin</a>)</li>
