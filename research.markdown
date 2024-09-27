@@ -51,11 +51,9 @@ sitemap: true
 
 # Working Papers
 
-<li><a></a>Becoming Green: Aggregate and Firm-level Effects of Green Technology News Shock (with <a href="https://oscarjaulin.com/" target="_blank">Oscar Jaulin</a>)</li>
-<details>
-<summary>Abstract</summary>
-<i>We empirically explore the macroeconomic and firm-level implications of news about future technological advancements in the green sector. Utilizing the economic value of green patents granted to publicly listed companies in the U.S., we identify green technology news shocks via a convenient and meaningful rotation of the innovations from a Bayesian Vector Autorregresion Model (BVAR). These shocks are decomposed into two orthogonal components: i) a common technological component shared by both green and non-green innovation, that reproduces response patterns akin to those expected from a technology news shock with long-run impacts on productivity; and ii) an idiosyncratic component to green innovation inducing inflationary pressures and stock price reductions. The responses to the orthogonal component suggest the existence of a green transition news content that can be related to expectations of more rigorous carbon policies or stricter environmental standards in the future. Our focus on green innovation deepens our understanding about the effect of technology-specific news shocks and provides information of practical importance for macroeconomic and environmental policies.</i>
-</details>
+<li><a href="https://docs.iza.org/dp16988.pdf" target="_blank">On the Effects of Wildfires on Poverty in Bolivia</a> (with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>). <i>R&R Journal of Development Economics</i></li>
+<details><summary>Abstract</summary>
+<i>This paper examines the impact of severe wildfire events on Bolivia’s poverty and labor market outcomes. We construct a panel dataset from 2005 to 2020 at the municipality level utilizing NASA’s MODIS Collection-6 MCD64A1 burned area product, and merge it with household surveys. To attain survey representativeness at a given geographical level, we aggregate neighboring municipalities through the max-pregion algorithm. Using the Interactive Fixed Effects Counterfactual Estimator, we estimate the causal effects of severe wildfire events on poverty, household per-capita income, and the agricultural sector. We find a significant short-term increase in poverty explained by a temporary decline in household per capita and, specifically, agricultural labor income.</i></details>
 <p></p>
 
 <li>High-frequency Density Nowcasts of CO2 Emissions in U.S. States (with <a href="https://ignaciogarron.github.io/" target="_blank">Ignacio Garrón</a>)</li>
@@ -75,9 +73,11 @@ sitemap: true
 
 # Work in Progress
 
-<li><a href="https://docs.iza.org/dp16988.pdf" target="_blank">On the Effects of Wildfires on Poverty in Bolivia</a> (with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>). <i>R&R Journal of Development Economics</i></li>
-<details><summary>Abstract</summary>
-<i>This paper examines the impact of severe wildfire events on Bolivia’s poverty and labor market outcomes. We construct a panel dataset from 2005 to 2020 at the municipality level utilizing NASA’s MODIS Collection-6 MCD64A1 burned area product, and merge it with household surveys. To attain survey representativeness at a given geographical level, we aggregate neighboring municipalities through the max-pregion algorithm. Using the Interactive Fixed Effects Counterfactual Estimator, we estimate the causal effects of severe wildfire events on poverty, household per-capita income, and the agricultural sector. We find a significant short-term increase in poverty explained by a temporary decline in household per capita and, specifically, agricultural labor income.</i></details>
+<li><a></a>Becoming Green: Aggregate and Firm-level Effects of Green Technology News Shock (with <a href="https://oscarjaulin.com/" target="_blank">Oscar Jaulin</a>)</li>
+<details>
+<summary>Abstract</summary>
+<i>We empirically explore the macroeconomic and firm-level implications of news about future technological advancements in the green sector. Utilizing the economic value of green patents granted to publicly listed companies in the U.S., we identify green technology news shocks via a convenient and meaningful rotation of the innovations from a Bayesian Vector Autorregresion Model (BVAR). These shocks are decomposed into two orthogonal components: i) a common technological component shared by both green and non-green innovation, that reproduces response patterns akin to those expected from a technology news shock with long-run impacts on productivity; and ii) an idiosyncratic component to green innovation inducing inflationary pressures and stock price reductions. The responses to the orthogonal component suggest the existence of a green transition news content that can be related to expectations of more rigorous carbon policies or stricter environmental standards in the future. Our focus on green innovation deepens our understanding about the effect of technology-specific news shocks and provides information of practical importance for macroeconomic and environmental policies.</i>
+</details>
 <p></p>
 
 <li><a href="https://anramosr.github.io/Canavire_Puerta_Ramos_Ecuador.pdf" target="_blank">The Heterogeneous Effects of Changes in Precipitation on Poverty and Labor Outcomes in Ecuador</a> (with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>).
