@@ -42,31 +42,26 @@ sitemap: true
 
 # Publications
 
-<li><a href="http://www.lolagadea.com/" target="_blank">Gadea, M.D</a>, <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature.</a> <i> Economics Letters </i> 2024; 244: 111992. doi: 10.1016/j.econlet.2024.111992.</li>
+<li><a href="http://www.lolagadea.com/" target="_blank">Gadea, M.D.</a>, <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature.</a> <i> Economics Letters </i> 2024; 244: 111992. doi: 10.1016/j.econlet.2024.111992.</li>
 <p></p>
 <li><a href="https://sites.google.com/view/liangchen-phbs" target="_blank">Chen, L.</a>, <a href="https://dolado.blogspot.com/" target="_blank">Dolado, JJ.</a>,  <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12491" target="_blank">Heterogeneous Predictive Association of CO2 with Global Warming.</a> <i> Economica </i> 2023; 90(360): 1397-1421. doi: 10.1111/ecca.12491.</li>
 <p></p>
 <li><a href="https://sites.google.com/site/evipappapersonalhomepage/home" target="_blank">Pappa, E.</a>, <b>Ramos, A.</b>, and <a href="https://sites.google.com/view/evella/home" target="_blank">Vella, E.</a> <a href="https://link.springer.com/article/10.1007/s13209-023-00288-w" target="_blank">Which Crisis Support Fiscal Measures Worked During the Covid-19 Shock in Europe?</a> <i> SERIEs </i> 2023. doi: 10.1007/s13209-023-00288-w.</li>
 <p></p>
 
-# Working Papers under revision
-
-<li><a href="https://anramosr.github.io/Trends_Temperature_EL.pdf" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature</a> (with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>). <i>Accepted Economics Letters</i></li>
-<details><summary>Abstract</summary>
-<i>Determining whether Global Average Temperature (GAT) is an integrated process of order 1, I(1), or is a stationary process around a trend function is crucial for detection, attribution, impact and forecasting studies of climate change. In this paper, we investigate the nature of trends in GAT building on the analysis of individual temperature grids. Our 'micro-founded' evidence suggests that GAT is stationary around a non-linear deterministic trend in the form of a linear function with a one-period structural break. This break can be attributed to a combination of individual grid breaks and the standard aggregation method under acceleration in global warming. We illustrate our findings using simulations.</i></details>
-<p></p>
+# Working Papers
 
 <li><a href="https://docs.iza.org/dp16988.pdf" target="_blank"> On the Effects of Wildfires on Poverty in Bolivia</a> (with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>). <i>R&R Journal of Development Economics</i></li>
 <details><summary>Abstract</summary>
 <i>This paper examines the impact of severe wildfire events on Bolivia’s poverty and labor market outcomes. We construct a panel dataset from 2005 to 2020 at the municipality level utilizing NASA’s MODIS Collection-6 MCD64A1 burned area product, and merge it with household surveys. To attain survey representativeness at a given geographical level, we aggregate neighboring municipalities through the max-pregion algorithm. Using the Interactive Fixed Effects Counterfactual Estimator, we estimate the causal effects of severe wildfire events on poverty, household per-capita income, and the agricultural sector. We find a significant short-term increase in poverty explained by a temporary decline in household per capita and, specifically, agricultural labor income.</i></details>
 <p></p>
 
-# Work in Progress
-
 <li><a href="https://anramosr.github.io/Canavire_Puerta_Ramos_Ecuador.pdf" target="_blank"> The Heterogeneous Effects of Changes in Precipitation on Poverty and Labor Outcomes in Ecuador</a> (with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>).
 <details><summary>Abstract</summary>
 <i>This document examines the effect of precipitation shocks on poverty status in Ecuador. Using gridded monthly precipitation data from 2007 to 2021, we define measures for the excess and deficit in precipitation levels at the parish geographical level. This data is merged with household socioeconomic information obtained from the National Survey of Employment, Unemployment, and Underemployment (ENEMDU). Our empirical findings reveal that both excess and deficit in precipitation significantly affect poverty status, with these effects displaying strong heterogeneity across economic sectors. Variations in the Standardized Precipitation Index (SPI), whether positive or negative, lead to an increased probability of poverty among workers in the primary sector (specifically, those engaged in fishing and agriculture). In contrast, we observe poverty-reducing effects for the secondary and tertiary sectors. Factors such as formality status, urban/rural location, and the nature of employment play crucial roles in moderating the estimated effects. Per-capita household income and labor income are key channels to explain of our findings.</i></details>
 <p></p>
+
+# Work in Progress
 
 <li>Becoming Green: Aggregate and Firm-level Effects of Green Technology News Shock (with <a href="https://oscarjaulin.com/" target="_blank">Oscar Jaulin</a>)</li>
 <details><summary>Abstract</summary>
