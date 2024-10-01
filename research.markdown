@@ -42,7 +42,7 @@ sitemap: true
 
 # Publications
 
-<li><a href="http://www.lolagadea.com/" target="_blank">Gadea, M.D.</a>, <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature.</a> <i> Economics Letters </i> 2024; 244: 111992. doi: 10.1016/j.econlet.2024.111992.</li>
+<li><a href="http://www.lolagadea.com/" target="_blank">Gadea, M.D.</a>, <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature.</a> <i> Economics Letters </i> 2024; 244: 111992. doi: 10.1016/j.econlet.2024.111992.<a href="https://github.com/anramosr/Gadea-Gonzalo-Ramos-Trends-2024" target="_blank"><i>[Replication files]</i></a></li>
 <p></p>
 
 <li><a href="https://sites.google.com/view/liangchen-phbs" target="_blank">Chen, L.</a>, <a href="https://dolado.blogspot.com/" target="_blank">Dolado, JJ.</a>,  <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12491" target="_blank">Heterogeneous Predictive Association of CO2 with Global Warming.</a> <i> Economica </i> 2023; 90(360): 1397-1421. doi: 10.1111/ecca.12491.</li>
