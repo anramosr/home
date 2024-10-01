@@ -48,7 +48,7 @@ sitemap: true
 <li><a href="https://sites.google.com/view/liangchen-phbs" target="_blank">Chen, L.</a>, <a href="https://dolado.blogspot.com/" target="_blank">Dolado, JJ.</a>,  <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12491" target="_blank">Heterogeneous Predictive Association of CO2 with Global Warming.</a> <i> Economica </i> 2023; 90(360): 1397-1421. doi: 10.1111/ecca.12491.</li>
 <p></p>
 
-<li><a href="https://sites.google.com/site/evipappapersonalhomepage/home" target="_blank">Pappa, E.</a>, <b>Ramos, A.</b>, and <a href="https://sites.google.com/view/evella/home" target="_blank">Vella, E.</a> <a href="https://link.springer.com/article/10.1007/s13209-023-00288-w" target="_blank">Which Crisis Support Fiscal Measures Worked During the Covid-19 Shock in Europe?</a> <i> SERIEs </i> 2023. doi: 10.1007/s13209-023-00288-w.</li>
+<li><a href="https://sites.google.com/site/evipappapersonalhomepage/home" target="_blank">Pappa, E.</a>, <b>Ramos, A.</b>, and <a href="https://sites.google.com/view/evella/home" target="_blank">Vella, E.</a> <a href="https://link.springer.com/article/10.1007/s13209-023-00288-w" target="_blank">Which Crisis Support Fiscal Measures Worked During the Covid-19 Shock in Europe?</a> <i> SERIEs </i> 2023. doi: 10.1007/s13209-023-00288-w. <a href="https://github.com/anramosr/Pappa-Ramos-Vella-COVID19" target="_blank" style="color: inherit; text-decoration: none;"><i>[Replication files]</i></a></li></li>
 <p></p>
 
 # Working Papers
