@@ -44,8 +44,10 @@ sitemap: true
 
 <li><a href="http://www.lolagadea.com/" target="_blank">Gadea, M.D.</a>, <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature.</a> <i> Economics Letters </i> 2024; 244: 111992. doi: 10.1016/j.econlet.2024.111992.</li>
 <p></p>
+
 <li><a href="https://sites.google.com/view/liangchen-phbs" target="_blank">Chen, L.</a>, <a href="https://dolado.blogspot.com/" target="_blank">Dolado, JJ.</a>,  <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a> and <b>Ramos, A.</b> <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12491" target="_blank">Heterogeneous Predictive Association of CO2 with Global Warming.</a> <i> Economica </i> 2023; 90(360): 1397-1421. doi: 10.1111/ecca.12491.</li>
 <p></p>
+
 <li><a href="https://sites.google.com/site/evipappapersonalhomepage/home" target="_blank">Pappa, E.</a>, <b>Ramos, A.</b>, and <a href="https://sites.google.com/view/evella/home" target="_blank">Vella, E.</a> <a href="https://link.springer.com/article/10.1007/s13209-023-00288-w" target="_blank">Which Crisis Support Fiscal Measures Worked During the Covid-19 Shock in Europe?</a> <i> SERIEs </i> 2023. doi: 10.1007/s13209-023-00288-w.</li>
 <p></p>
 
@@ -60,14 +62,6 @@ sitemap: true
 <details><summary>Abstract</summary>
 <i>This document examines the effect of precipitation shocks on poverty status in Ecuador. Using gridded monthly precipitation data from 2007 to 2021, we define measures for the excess and deficit in precipitation levels at the parish geographical level. This data is merged with household socioeconomic information obtained from the National Survey of Employment, Unemployment, and Underemployment (ENEMDU). Our empirical findings reveal that both excess and deficit in precipitation significantly affect poverty status, with these effects displaying strong heterogeneity across economic sectors. Variations in the Standardized Precipitation Index (SPI), whether positive or negative, lead to an increased probability of poverty among workers in the primary sector (specifically, those engaged in fishing and agriculture). In contrast, we observe poverty-reducing effects for the secondary and tertiary sectors. Factors such as formality status, urban/rural location, and the nature of employment play crucial roles in moderating the estimated effects. Per-capita household income and labor income are key channels to explain of our findings.</i></details>
 <p></p>
-
-<li>From Paleo-Cooling to Paleo-Warming (with <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>)</li>
-<details>
-<summary>Abstract</summary>
-<i>A time-series quantitative methodology to describe trends in the temperature distribution under the assumption of local-stationarity is introduced. The methodology consists of estimating certain distributional characteristics of interest (mean, quantiles, and dispersion measures), testing for the existence of trends, and characterizing heterogeneity in the trend evolution along the temperature distribution. Applying the proposed methodology to the temperature paleoclimate record over the last 800 thousand years, we are able to determine to what extent the currently observed Global Warming dynamics are unusual compared to past changes in Earth’s climate. Our findings indicate that the Global Warming during the last 200 years is completely different to what is observed over the paleoclimate record. Over long-horizon samples covering several glacial-interglacial cycles (800 and 420 thousands of years), our approach detects a clear long-term Paleo-Cooling. If the analysis is restricted to shorter-horizon samples characterized by abrupt increases in temperature, as the last deglaciation (last 27 thousands of years), evidence of Paleo-Warming is obtained; however the intensity and heterogeneity of the current warming are significantly different. We highlight the importance of studying the whole distribution of the temperature to obtain a wide angle picture of climate evolution.</i>
-</details>
-<p></p>
-
 
 # Work in Progress
 
