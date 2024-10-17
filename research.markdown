@@ -46,7 +46,7 @@ sitemap: true
   <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank" style="font-weight: bold;">"Trends in Temperature Data: Micro-foundations of Their Nature"</a> (2024) with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>
 <br>
   <span style="color: brown; font-weight: bold;">
-  Economics Letters,</span> 244: 111992. doi: 10.1016/j.econlet.2024.111992.
+  Economics Letters</span>, 244: 111992. doi: 10.1016/j.econlet.2024.111992.
 <br>
 <a href="https://github.com/anramosr/Gadea-Gonzalo-Ramos-Trends-2024" target="_blank">Replication files</a>
 </li>
@@ -56,7 +56,7 @@ sitemap: true
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12491" target="_blank" style="font-weight: bold;">"Heterogeneous Predictive Association of CO2 with Global Warming"</a> (2023) with <a href="https://sites.google.com/view/liangchen-phbs" target="_blank">Liang Chen</a>, <a href="https://dolado.blogspot.com/" target="_blank">Juan J. Dolado</a>, and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Jesús Gonzalo</a>
 <br>
   <span style="color: brown; font-weight: bold;">
-  Economica,</span> 90(360): 1397-1421. doi: 10.1111/ecca.12491
+  Economica</span>, 90(360): 1397-1421. doi: 10.1111/ecca.12491
 </li>
 <p></p>
 
@@ -64,7 +64,7 @@ sitemap: true
   <a href="https://link.springer.com/article/10.1007/s13209-023-00288-w" target="_blank" style="font-weight: bold;">"Which Crisis Support Fiscal Measures Worked During the Covid-19 Shock in Europe?"</a> (2023) with <a href="https://sites.google.com/site/evipappapersonalhomepage/home" target="_blank">Evi Pappa</a> and <a href="https://sites.google.com/view/evella/home" target="_blank">Eugenia Vella</a>
 <br>
   <span style="color: brown; font-weight: bold;">
-  SERIEs,</span> doi: 10.1007/s13209-023-00288-w
+  SERIEs Journal of the Spanish Economics Association</span>, doi: 10.1007/s13209-023-00288-w
 <br>
 <a href="https://github.com/anramosr/Pappa-Ramos-Vella-COVID19" target="_blank">Replication files</a>
 </li>
