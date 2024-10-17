@@ -48,7 +48,7 @@ sitemap: true
   <span style="color: brown; font-weight: bold;">
   Economics Letters,</span> 244: 111992. doi: 10.1016/j.econlet.2024.111992.
 <br>
-<a href="https://github.com/anramosr/Gadea-Gonzalo-Ramos-Trends-2024" target="_blank" style="color: inherit; text-decoration: none;">Replication files</a>
+<a href="https://github.com/anramosr/Gadea-Gonzalo-Ramos-Trends-2024" target="_blank">Replication files</a>
 </li>
 <p></p>
 
@@ -66,7 +66,7 @@ sitemap: true
   <span style="color: brown; font-weight: bold;">
   SERIEs,</span> doi: 10.1007/s13209-023-00288-w
 <br>
-<a href="https://github.com/anramosr/Pappa-Ramos-Vella-COVID19" target="_blank" style="color: inherit; text-decoration: none;">Replication files</a>
+<a href="https://github.com/anramosr/Pappa-Ramos-Vella-COVID19" target="_blank">Replication files</a>
 </li>
 <p></p>
 
