@@ -42,7 +42,8 @@ sitemap: true
 
 <h1>Publications</h1>
 
-<li> <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank">Trends in Temperature Data: Micro-foundations of Their Nature.</a> (2024) with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Gonzalo, J.</a>
+<li>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank" style="font-weight: bold;">"Trends in Temperature Data: Micro-foundations of Their Nature"</a> (2024) with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>
 </li>
 <p></p>
 
