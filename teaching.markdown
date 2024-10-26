@@ -26,7 +26,7 @@ sitemap: true
 
 <section class="resume-section" id="teaching">
     <div class="resume-section-content">     
-        <h3 class="mb-3" style="margin-bottom: 10px;">Carlos III University of Madrid</h3>
+        <h3 class="mb-3" style="margin-bottom: 10px;">Universidad Carlos III de Madrid</h3>
         <h4 class="mb-3" style="margin-bottom: 10px;">Teaching assistant for the courses:</h4>
         <ul>
             <li style="margin-bottom: 10px;"><b>Econometrics III: Panel Data and Time Series</b></li>
@@ -70,7 +70,7 @@ sitemap: true
         
 
         
-<h3 class="mb-3" style="margin-bottom: 10px;">National University of Colombia</h3>
+<h3 class="mb-3" style="margin-bottom: 10px;">Universidad Nacional de Colombia</h3>
         <h4 class="mb-3" style="margin-bottom: 10px;">Main instructor for the courses:</h4>
         <ul>
             <li style="margin-bottom: 10px;"><b>Econometrics I</b></li>
