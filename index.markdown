@@ -50,7 +50,7 @@ sitemap: true
 <ul><li>During spring 2024, I visited the Department of Economics and Business Economics at Aarhus University.</li></ul>
 </p>
 <p>
-<ul><li>My Job Market Paper was selected for a poster session at the <strong>ASSA 2025 Annual Meeting</strong>.</li></ul>
+<ul><li>My Job Market Paper was selected for a <a href="poster_JMP.pdf" target="_blank">poster</a> session at the <strong>ASSA 2025 Annual Meeting</strong>.</li></ul>
 </p>
 <p>
 <ul><li>Contact: <a href="mailto:anramosr@eco.uc3m.es">anramosr@eco.uc3m.es</a> or <a href="mailto:adramosr@gmail.com">adramosr@gmail.com</a>.</li></ul>
